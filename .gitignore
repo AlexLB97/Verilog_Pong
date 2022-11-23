@@ -1,0 +1,6 @@
+complete_pong.sim/
+complete_pong.runs/
+complete_pong.cache/
+complete_pong.hw/
+complete_pong.ip_user_files/
+*.xpr
